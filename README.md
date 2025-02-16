@@ -30,11 +30,9 @@ Before running the application, you'll need the following:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [repository_url]
-    cd [repository_directory]
+    git clone https://www.github.com/shotintoeternity/google-document-analyzer.git
+    cd google-document-analyzer
     ```
-
-    Replace `[repository_url]` with the actual URL of your GitHub repository and `[repository_directory]` with the name of the cloned directory.
 
 2.  **Create a Virtual Environment (Recommended):**
 
